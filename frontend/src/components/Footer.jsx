@@ -7,9 +7,9 @@ const Footer = () => {
         <footer className="footer">
             <div className="container footer-container">
                 <div className="footer-left">
-                    <h2 className="footer-logo gradient-text">John.Dev</h2>
+                    <h2 className="footer-logo gradient-text">Ashwini.Dev</h2>
                     <p className="footer-copyright">
-                        &copy; {new Date().getFullYear()} John Doe. All rights reserved.
+                        &copy; {new Date().getFullYear()} AshwiniBoya. All rights reserved.
                     </p>
                 </div>
 

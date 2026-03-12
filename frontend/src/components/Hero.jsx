@@ -27,7 +27,7 @@ const Hero = () => {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 0.4 }}
                     >
-                        John <span className="gradient-text">Doe.</span>
+                        Ashwini <span className="gradient-text">Boya.</span>
                     </motion.h1>
                     <motion.h2
                         className="hero-title"
@@ -35,7 +35,7 @@ const Hero = () => {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 0.6 }}
                     >
-                        Full Stack Developer.
+                        Aspiring Full Stack Developer.
                     </motion.h2>
                     <motion.p
                         className="hero-desc"
@@ -67,8 +67,8 @@ const Hero = () => {
                         animate={{ opacity: 1 }}
                         transition={{ delay: 1.2 }}
                     >
-                        <a href="https://github.com" target="_blank" rel="noreferrer"><FiGithub /></a>
-                        <a href="https://linkedin.com" target="_blank" rel="noreferrer"><FiLinkedin /></a>
+                        <a href="https://github.com/ashwiniboya" target="_blank" rel="noreferrer"><FiGithub /></a>
+                        <a href="https://linkedin.com/in/ashwiniboya61" target="_blank" rel="noreferrer"><FiLinkedin /></a>
                     </motion.div>
                 </motion.div>
 

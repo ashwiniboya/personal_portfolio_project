@@ -61,15 +61,15 @@ const Contact = () => {
                         <div className="info-items">
                             <div className="info-item">
                                 <FiMail className="info-icon" />
-                                <span>hello@johndoe.com</span>
+                                <span>ashwiniboya61@gmail.com</span>
                             </div>
                             <div className="info-item">
                                 <FiMapPin className="info-icon" />
-                                <span>San Francisco, CA</span>
+                                <span>Anantapur , Andra pradesh</span>
                             </div>
                             <div className="info-item">
                                 <FiPhone className="info-icon" />
-                                <span>+1 (555) 123-4567</span>
+                                <span></span>
                             </div>
                         </div>
                     </motion.div>
@@ -90,7 +90,7 @@ const Contact = () => {
                                 value={formData.name}
                                 onChange={handleChange}
                                 required
-                                placeholder="John Doe"
+                                placeholder="AshwiniBoya"
                             />
                         </div>
                         <div className="form-group">
@@ -101,7 +101,7 @@ const Contact = () => {
                                 value={formData.email}
                                 onChange={handleChange}
                                 required
-                                placeholder="john@example.com"
+                                placeholder="ashwiniboya61@gmail.com"
                             />
                         </div>
                         <div className="form-group">

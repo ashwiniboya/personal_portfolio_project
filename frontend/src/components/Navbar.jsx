@@ -20,7 +20,7 @@ const Navbar = ({ theme, toggleTheme }) => {
     return (
         <header className={`navbar ${scrolled ? 'nav-scrolled glass' : ''}`}>
             <div className="nav-container container">
-                <a href="#" className="nav-logo gradient-text">John.Dev</a>
+                <a href="#" className="nav-logo gradient-text">Ashwini.Dev</a>
 
                 <div className="nav-links desktop">
                     {navLinks.map((link) => (
